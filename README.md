@@ -1,6 +1,6 @@
 # SpringBoot + RabbitMQ
 
-This is a simple SpringBoot app that implements the RabbitMQ messaging broker, and works at the same time as bot, the Producer and Reciever.
+This is a simple SpringBoot app that implements the RabbitMQ messaging broker, and works at the same time as both, the Producer and Reciever.
 
 ## Requirements
 You need to have RabbitMQ runnining locally in order make this work. The easiest way is to use Docker:
